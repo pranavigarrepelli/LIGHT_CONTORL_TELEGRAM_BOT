@@ -1,1 +1,1 @@
-worker: python majorproject_bot.py
+worker: python majorprojectbot.py
